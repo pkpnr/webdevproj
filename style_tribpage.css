@@ -1,0 +1,89 @@
+.arlene
+{
+    text-align: center;
+    font-family: Arial;
+    font-style: italic;
+    color: antiquewhite;
+    letter-spacing: -0.05em;
+    background-color: firebrick;
+    margin: 0;
+    min-height: 500%;
+    line-height: 2em;
+    
+}
+
+.arlene p
+{
+    font-style: normal;
+    font-family: Helvetica;
+    margin-top: -1.5em;
+}
+
+.kapoy
+{
+    text-align: center;
+    background-color: firebrick;
+    min-width: 50%;
+    height: 450px;
+    float: left;
+    position: sticky;
+    box-sizing: border-box;
+    margin-right: 50px;
+    margin-bottom: 30px;
+}
+
+.kapoy h1
+{
+    font-family: Arial;
+    font-weight: bold;
+    font-style: italic;
+    letter-spacing: -0.05em;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: antiquewhite;
+}
+
+.kapoy pre
+{
+    list-style: none;
+    float: left;
+    line-height: 2em;
+    text-align: left;
+    margin: 0;
+    padding-left: 10px;
+    color: antiquewhite;
+    font-family: Arial;
+    letter-spacing: -0.05em;
+}
+
+.kapoy2
+{
+    float: top;
+    box-sizing: border-box;
+    min-width: 50%;
+    min-height: 30%;
+    margin-right: 30px;
+}
+
+.kapoy2 p
+{
+    text-align: justify;
+    text-indent: 3em;
+    font-family: Helvetica;
+    letter-spacing: -0.05em;
+    position: sticky;
+    padding-left: 10px;
+}
+
+.bulz
+{
+    font-family: Arial;
+    letter-spacing: -0.05em;
+    color: antiquewhite;
+}
+
+body
+{
+    background-color: darksalmon;
+    margin: 0;
+}
