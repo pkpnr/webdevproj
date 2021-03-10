@@ -19,6 +19,27 @@
     margin-top: -1.5em;
 }
 
+.arlene li
+{
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: darksalmon;
+    color: antiquewhite;
+}
+
+.arlene a:hover
+{
+    color: antiquewhite;
+}
+
+.arlene a:active, a:visited
+{
+    color: black;
+}
+
 .kapoy
 {
     text-align: center;
@@ -26,6 +47,7 @@
     min-width: 50%;
     height: 450px;
     float: left;
+    clear: right;
     position: sticky;
     box-sizing: border-box;
     margin-right: 50px;
