@@ -1,4 +1,4 @@
-.arlene
+.topbar
 {
     text-align: center;
     font-family: Arial;
@@ -12,14 +12,14 @@
     
 }
 
-.arlene p
+.topbar p
 {
     font-style: normal;
     font-family: Helvetica;
     margin-top: -1.5em;
 }
 
-.arlene li
+.topbar li
 {
     display: inline;
     padding-left: 5px;
@@ -30,17 +30,17 @@
     color: antiquewhite;
 }
 
-.arlene a:hover
+.topbar a:hover
 {
     color: antiquewhite;
 }
 
-.arlene a:active, a:visited
+.topbar a:active, a:visited
 {
     color: black;
 }
 
-.kapoy
+.d1
 {
     text-align: center;
     background-color: firebrick;
@@ -54,7 +54,7 @@
     margin-bottom: 30px;
 }
 
-.kapoy h1
+.d1 h1
 {
     font-family: Arial;
     font-weight: bold;
@@ -65,7 +65,7 @@
     color: antiquewhite;
 }
 
-.kapoy pre
+.d1 pre
 {
     list-style: none;
     float: left;
@@ -78,7 +78,7 @@
     letter-spacing: -0.05em;
 }
 
-.kapoy2
+.d2
 {
     float: top;
     box-sizing: border-box;
@@ -87,7 +87,7 @@
     margin-right: 30px;
 }
 
-.kapoy2 p
+.d2 p
 {
     text-align: justify;
     text-indent: 3em;
@@ -97,7 +97,7 @@
     padding-left: 10px;
 }
 
-.bulz
+.bioli
 {
     font-family: Arial;
     letter-spacing: -0.05em;
