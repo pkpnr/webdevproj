@@ -7,17 +7,10 @@
     </head>
 
     <body>
-        <div class="topbar">
-            <h1>just a minimal tribute page</h1>
-            <p>in preparation for the solo debut on March 12th, 2021</p>
-        </div>
-        
-
-        <br>
-        <br>
+      <?php include 'header_tribpage.html';?>  
 
         <div class="d1">
-            <h1>Roseanne "ROSIE" Park</h1>
+            <h1>Roseanne "ROSÉ" Park</h1>
             <img src="rosie.jpg" width="250" height="150">
             
             <br><br>
@@ -38,7 +31,7 @@
         <div class="d2"></div>
     </body>
 
-    <script src="dom_tribpage.js"></script>
-
     
+
+    <?php include 'roro.php'; ?>
 </html>

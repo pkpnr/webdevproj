@@ -35,9 +35,14 @@
     color: antiquewhite;
 }
 
-.topbar a:active, a:visited
+.topbar a:link
 {
     color: black;
+}
+
+.topbar a:visited
+{
+    color: firebrick;
 }
 
 .d1
