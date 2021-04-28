@@ -13,3 +13,4 @@ const bd = document.querySelector(".d2");
 
 bd.appendChild(p1);
 bd.appendChild(p2);
+

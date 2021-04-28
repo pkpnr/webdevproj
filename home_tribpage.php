@@ -25,6 +25,6 @@ include('header_tribpage.php');
         <div class="d2"></div>
         </body>
 
-        <script src="dom_tribpage.js"></script>
+        <script src="dom_home_tribpage.js"></script>
 
 </html>
